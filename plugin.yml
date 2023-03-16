@@ -1,0 +1,5 @@
+name: ContadorMuertes
+version: 0.0.1
+main: itoozh\ContadorMuertes
+api: 4.0.0
+author: itoozh
